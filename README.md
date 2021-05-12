@@ -2,6 +2,6 @@
  Login function on vk with python using selenium
 
 
- # For working you need to install selenium and webdriver.
+ # For this to work you will need to install a selenium and a webdriver manager.
    - for install selenium check https://selenium-python.readthedocs.io/installation.html
    - for install webdriver_manager check https://pypi.org/project/webdriver-manager/
